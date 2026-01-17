@@ -1,7 +1,7 @@
 -- Create Database company2
 CREATE DATABASE company2;
 
--- Use Database company2
+-- Use Database company2 
 USE company2;
 
 -- Create Employee Table
