@@ -6,7 +6,7 @@ USE company2;
 
 -- Create Employee Table
 CREATE TABLE IF NOT EXISTS employees (
-    employee_id INT PRIMARY KEY,
+    employee_id INT PRIMARY KEY, 
     employee_name VARCHAR(50),
     salary DECIMAL(10, 2),
     department VARCHAR(50),
