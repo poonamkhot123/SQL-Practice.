@@ -4,7 +4,7 @@ CREATE DATABASE company2;
 -- Use Database company2 
 USE company2;
 
--- Create Employee Table
+-- Create Employee Table 
 CREATE TABLE IF NOT EXISTS employees (
     employee_id INT PRIMARY KEY, 
     employee_name VARCHAR(50),
